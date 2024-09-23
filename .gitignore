@@ -1,0 +1,21 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.csproj.DotSettings
+*.sln.DotSettings
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore JetBrains Rider project files
+.idea/
+
+# Ignore Mac build files
+*.DS_Store
